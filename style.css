@@ -26,13 +26,15 @@ header {
 } 
 
 .logo-placeholder { 
-    border: 2px dashed #FF8DA1; 
-    padding: 1em; 
-    font-size: 0.9em; 
+    border: 2px solid #FF8DA1; 
+    padding: 0.5em 1em; 
+    font-size: 1.1em; 
     font-weight: bold; 
     text-transform: uppercase; 
-    color: #FF8DA1; 
-    border-radius: 4px; 
+    color: #D94162; 
+    border-radius: 4px;
+    background-color: #FFE5EC;
+    letter-spacing: 0.1em;
 } 
 
 h1 { 
